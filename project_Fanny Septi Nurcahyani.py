@@ -59,6 +59,7 @@ class animasi(object):
         while jalan:
              
             ylama = y
+            xlama = x
             
             #persamaan kuadrat
             y = x*x  - 10*x + 16
