@@ -41,7 +41,7 @@ class animasi(object):
      def animation(self):
 
         # kordinat posisi awal posisi awal
-        awal = -15
+        awal = -10
         x = 5
         y = 0
         
@@ -79,7 +79,7 @@ class animasi(object):
                 if maju:
                      x = awal
                 else:
-                     x = 25
+                     x = 50
                 
             #print str("[0] : "+str(self.pos[0])+" - [1] : "+str(self.pos[1])+" - [2] : "+str(self.pos[2])+" - [3] : "+str(self.pos[3])  )
 
