@@ -17,8 +17,8 @@ class animasi(object):
      lWidth = 700
      lHeight = 600
 
-     posX = 50
-     posY = 150
+     posX = 55
+     posY = 155
      
      def _init_(self):
 
