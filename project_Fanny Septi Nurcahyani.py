@@ -79,7 +79,7 @@ class animasi(object):
                 if maju:
                      x = awal
                 else:
-                     x = 40
+                     x = 50
                 
             #print str("[0] : "+str(self.pos[0])+" - [1] : "+str(self.pos[1])+" - [2] : "+str(self.pos[2])+" - [3] : "+str(self.pos[3])  )
 
